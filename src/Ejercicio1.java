@@ -1,0 +1,12 @@
+public class Ejercicio1{
+    public static void main(String[] args){
+        Integer x = 144;
+        Integer y = 999;
+        System.out.println("x = " + x);
+        System.out.println("y = " + y);
+        System.out.println("x + y = " + (x + y));
+        System.out.println("x - y = " + (x - y));
+        System.out.println("x * y = " + (x * y));
+        System.out.println("x / y = " + (x / y));
+    }
+}
