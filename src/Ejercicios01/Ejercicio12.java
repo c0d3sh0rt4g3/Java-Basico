@@ -41,10 +41,10 @@ public class Ejercicio12 {
                 break;
         }
         float finalPrice = priceWithTaxes - promoToRest;
-        System.out.println("Product price with no taxes\n" + taxBase);
-        System.out.println("Taxes to apply(" + taxesPercent + "%)\n" + taxesToAdd);
-        System.out.println("Price with taxes\n" + priceWithTaxes);
-        System.out.println("Promo code(" + promoCode + "): -" + promoToRest);
-        System.out.println("TOTAL\n" + finalPrice);
+        System.out.println("Product price with no taxes\n" + taxBase +
+                "\nTaxes to apply(" + taxesPercent + "%)\n" + taxesToAdd +
+                "\nPrice with taxes\n" + priceWithTaxes +
+                "\nPromo code(" + promoCode + "): -" + promoToRest +
+                "\nTOTAL\n" + finalPrice);
     }
 }
