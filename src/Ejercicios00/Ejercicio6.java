@@ -1,3 +1,5 @@
+package Ejercicios00;
+
 public class Ejercicio6 {
     public static void main(String[] args){
         float precioSinIVA = 145F;

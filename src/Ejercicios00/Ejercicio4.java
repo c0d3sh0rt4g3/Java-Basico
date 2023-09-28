@@ -1,3 +1,5 @@
+package Ejercicios00;
+
 public class Ejercicio4 {
     public static void main(String[] args){
         float euros = 20.0F;
